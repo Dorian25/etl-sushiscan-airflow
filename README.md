@@ -4,7 +4,7 @@ I created this program to `extract` data from the website [sushiscan.su](https:/
 
 `The MongoDB Atlas Data API lets you read and write data in Atlas with standard HTTPS requests. To use the Data API, all you need is an HTTPS client and a valid API key.`
 
-
+The final goal is to provide daily updated data to one of my projects [Get-mangas](https://github.com/Dorian25/get-mangas).
 
 ## Table of content
 - [Introduction](#introduction)
