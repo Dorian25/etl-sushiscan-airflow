@@ -1,5 +1,11 @@
 # etl-sushiscan-airflow
 
+<p align="center">
+  <img src="https://github.com/Dorian25/etl-sushiscan-airflow/assets/32178615/ac95aa3a-79fb-40cb-be7d-aba5b8e7b515" />
+</p>
+
+
+
 I created this program to `extract` data from the website [sushiscan.su](https://sushiscan.su/) (a manga online reading site in french), `load` them into a MongoDB database and then use their `Data API`.
 
 `The MongoDB Atlas Data API lets you read and write data in Atlas with standard HTTPS requests. To use the Data API, all you need is an HTTPS client and a valid API key.`
